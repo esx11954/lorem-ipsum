@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklorem_ipsum=globalThis.webpackChunklorem_ipsum||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/lorem-ipsum/blog","blogTitle":"Blog","authorsListPath":"/lorem-ipsum/blog/authors"}')}}]);
